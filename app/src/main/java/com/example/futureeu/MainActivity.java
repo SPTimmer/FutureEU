@@ -15,6 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 import com.example.futureeu.ui.main.SectionsPagerAdapter;
 
@@ -53,11 +54,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        FloatingActionButton fab = findViewById(R.id.fab);
-        fab.setOnClickListener(view -> {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-        });
+        addOnClickListenerToFabs();
     }
 
     @Override
@@ -84,5 +81,30 @@ public class MainActivity extends AppCompatActivity {
                 throw new IllegalStateException("Unexpected value: " + item.getItemId());
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    public void addOnClickListenerToFabs(){
+        View notificationsButton = findViewById(R.id.fabMyNotifications);
+        if (notNull(notificationsButton)) {
+            notificationsButton.setOnClickListener((View v) -> {
+                Intent intent = new Intent(context, MyNotificationsConversations.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                intent.putExtra("mnc", 0);
+                startActivity(intent);
+            });
+        }
+        View conversationsButton = findViewById(R.id.fabConversations);
+        if (notNull(conversationsButton)) {
+            conversationsButton.setOnClickListener((View v) -> {
+                Intent intent = new Intent(context, MyNotificationsConversations.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                intent.putExtra("mnc", 1);
+                startActivity(intent);
+            });
+        }
+    }
+
+    public boolean notNull(Object obj){
+        return obj != null;
     }
 }

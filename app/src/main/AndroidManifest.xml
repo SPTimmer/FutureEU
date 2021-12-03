@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.futureeu" >
+    package="com.example.futureeu">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FutureEU" >
+        android:theme="@style/Theme.FutureEU">
+        <activity
+            android:name=".MyNotificationsConversations"
+            android:exported="false"
+            android:label="@string/title_activity_my_notifications_conversations" />
         <activity
             android:name=".AccountActivity"
             android:exported="false"
@@ -19,7 +23,7 @@
             android:label="@string/title_activity_login" />
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

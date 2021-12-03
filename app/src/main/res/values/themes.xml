@@ -22,7 +22,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.FutureEU.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.FutureEU.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.FutureEU.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
