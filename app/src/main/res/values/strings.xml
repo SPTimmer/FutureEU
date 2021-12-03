@@ -1,0 +1,728 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">FutureEU</string>
+    <string name="main_home_tab_text">Home</string>
+    <string name="main_topics_tab_text">Topics</string>
+    <string name="main_events_tab_text">Events</string>
+
+    <string name="climate">Climate change and environment</string>
+    <string name="democracy">European democracy</string>
+    <string name="digital">Digital transformation</string>
+    <string name="freedom">Values and rights, rule of law, security</string>
+    <string name="health">Health</string>
+    <string name="jobs">A stronger economy, social justice and jobs</string>
+    <string name="migration">Migration</string>
+    <string name="other">Other ideas</string>
+    <string name="world">EU in the world</string>
+    <string name="youth">Education, culture, youth and sport</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="future_hands">The future is in your hands</string>
+    <string name="my_notifications">My Notifications</string>
+    <string name="conversations">Conversations</string>
+    <string-array name="home_content_spinner_items">
+        <item>What is the Conference on the Future of Europe?</item>
+        <item>How can I get involved?</item>
+        <item>How do I organise an event?</item>
+        <item>Rules of Participation</item>
+        <item>Executive Board</item>
+        <item>Conference Plenary</item>
+        <item>Reporting</item>
+        <item>European Citizens’ Panels</item>
+        <item>Information material</item>
+        <item>Toolkit</item>
+        <item>Conference Charter</item>
+    </string-array>
+    <string name="html_what_is_cofe" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>What is the Conference on the Future of Europe?</h2>
+    <h4>The Conference on the Future of Europe is a unique and timely opportunity for European citizens to debate on
+        Europe’s challenges and priorities. No matter where you are from or what you do, this is the place to think
+        about what future you want for the European Union.</h4>
+    <p>The European Parliament, the Council and the European Commission have committed to listen to Europeans and to
+        follow up, within their sphere of competences, on the recommendations made.&nbsp;</p>
+    <p>By spring 2022, the Conference is expected to reach conclusions and provide guidance on the future of Europe.</p>
+    <h4><strong>Who can take part?</strong></h4>
+    <p>European citizens, from all walks of life and corners of the Union, with young people playing a central role in
+        shaping the future of the European project.&nbsp;</p>
+    <p>European, national, regional and local authorities, as well as civil society and other organisations who want to
+        organise events and contribute ideas.</p>
+    <p>All participants shall respect the values established in our <a href="https://futureu.europa.eu/pages/charter"
+            rel="noopener noreferrer">Charter of Principles</a>.&nbsp;</p>
+    <h4><strong>Which are the components of the Conference?</strong></h4>
+    <ul>
+        <li>
+            <strong>Multilingual digital platform </strong>- will be the place for citizens to share ideas and send
+            online submissions. They will be collected, analysed, monitored and published throughout the Conference;
+        </li>
+        <li>
+            <strong>Decentralised events&nbsp;</strong>– online, in-person* and hybrid events held by people and
+            organisations as well as national, regional and local authorities across Europe;
+        </li>
+        <li>
+            <strong>European Citizens’ Panels&nbsp;</strong>– will discuss different topics and put forward their
+            proposals; they will be representative in terms of geographic origin, gender, age, socioeconomic background
+            and/or level of education;
+        </li>
+        <li>
+            <strong>Conference Plenaries</strong>&nbsp;- will ensure that the recommendations from the national and
+            European citizens’ panels, grouped by themes, are debated without a predetermined outcome and without
+            limiting the scope to pre-defined policy areas. The Conference Plenary will be composed of representatives
+            from the European Parliament, the Council and the European Commission, as well as representatives from all
+            national Parliaments, on an equal footing and citizens. The Committee of the Regions and the Economic and
+            Social Committee, the social partners, and civil society will also be represented. The High Representative
+            of the Union for Foreign Affairs and Security Policy will be associated when the international role of the
+            EU is discussed. Representatives of key stakeholders may be invited. The Executive Board will draw and
+            publish the conclusions of the Conference Plenary.
+        </li>
+    </ul>
+    <h4><strong>What is the role of this digital platform?</strong></h4>
+    <p>The digital platform is the hub of the Conference: it is your way to get involved and speak up at the Conference.
+        Here you can share your thoughts on Europe and the changes which need to happen, see what others have to say,
+        find events near you, organise your own event and follow the progress and the outcome of the
+        Conference.&nbsp;&nbsp;</p>
+    <h4><strong>How do you have your say?&nbsp;</strong></h4>
+    <p>Simply choose from the comprehensive range of <a href="https://futureu.europa.eu/processes"
+            rel="noopener noreferrer">topics</a>&nbsp;and let the Conference know your opinion. Your ideas will be
+        collected, analysed, monitored and published on the platform, throughout the Conference. They will then feed
+        into the discussions taking place in the European citizens’ Panels and the Plenaries. A feedback mechanism will
+        ensure that the ideas expressed during the Conference events result in concrete recommendations for EU action.
+        The final outcome of the Conference will be presented in a report to the Joint Presidency. The three
+        Institutions will examine swiftly how to follow up effectively to this report, each within their own sphere of
+        competences and in accordance with the Treaties.</p>
+    <h4><strong>Who is leading the Conference?</strong></h4>
+    <p>The Conference is placed under the authority of the three institutions, represented by the President of the
+        European Parliament, the President of the Council and the President of the European Commission, acting as its
+        <strong>Joint Presidency.</strong>
+    </p>
+    <p>The Joint Presidency is supported by an <strong>Executive Board,</strong> which is co-chaired by the three
+        institutions (Mr Guy Verhofstadt, Member of the European Parliament, Mr Gašper Dovžan, State Secretary for EU
+        Affairs for the Slovenian Council Presidency** and Ms Dubravka Šuica, Vice-President of the European Commission
+        in charge of Democracy and Demography). It reports on a regular basis to the Joint Presidency. The Executive
+        Board is responsible for taking decisions by consensus regarding the works of the Conference, its processes and
+        events, overseeing the Conference as it progresses, and preparing the meetings of the Conference Plenary,
+        including citizens’ input and their follow up.</p>
+    <p>A <strong>Common Secretariat</strong>, of limited size and made up of officials representing the three
+        institutions equally, assists the work of the Executive Board.</p>
+    <p><strong>The Conference on the Future of Europe is nothing without you and your involvement on this platform. The
+            future is in your hands.</strong></p>
+    <p><strong>Make your voice heard.</strong></p>
+    <p><br></p>
+    <p>Related documents</p>
+    <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/6/EN_-_JOINT_DECLARATION_ON_THE_CONFERENCE_ON_THE_FUTURE_OF_EUROPE.pdf"
+            rel="noopener noreferrer"><strong>Joint Declaration on the Conference on the Future of Europe</strong></a>
+    </p>
+    <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/27297/en.pdf"
+            rel="noopener noreferrer"><strong>Rules of Procedure of the Conference on the Future of Europe</strong></a>
+    </p>
+    <p><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbe274ff16e79b4d729dfddfb77a5a6a664da7cf/CoFoE_Process_EN.jpg"
+            rel="noopener noreferrer"><strong>Process of the Conference on the Future of Europe</strong></a></p>
+    <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/14587/CoFoE_Timeline__3_.jpg"
+            rel="noopener noreferrer"><strong>Timeline of the Conference on the Future of Europe</strong></a></p>
+    <p><a href="https://europa.eu/european-union/about-eu/symbols/europe-day/schuman-declaration"
+            rel="noopener noreferrer"><strong>The Schuman Declaration – 9 May 1950</strong></a></p>
+    <p><a href="https://europa.eu/european-union/law/treaties" rel="noopener noreferrer"><strong>EU
+                treaties</strong></a></p>
+    <p><br></p>
+    <p><em>*Depending on the evolution of the coronavirus pandemic and in compliance with any related restrictions.</em>
+    </p>
+    <p><em>**The next Council Presidency (France) will take over from the Slovenian Presidency as co-chair of the
+            Executive Board.</em></p>
+</div>
+    ]]></string>
+    <string name="html_how_can_i_get_involved" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>How can I get involved?</h2>
+    <p>The first step to making your voice heard is&nbsp;<a href="https://futureu.europa.eu/users/auth/cas"
+            rel="noopener noreferrer"><strong>registering</strong></a>&nbsp;on the Conference on the Future of Europe
+        platform. Once you log in, it’s time to join the discussion.</p>
+    <h4><strong>Share your ideas</strong></h4>
+    <p>We have a whole list of topics we want to hear your thoughts on. Check you are logged in and then select one of
+        the topics below to get started.&nbsp;</p>
+    <ul>
+        <li>
+            <a href="https://futureu.europa.eu/processes/GreenDeal/f/1/proposals/new"
+                rel="noopener noreferrer"><strong>Climate change and environment</strong></a>&nbsp;
+        </li>
+        <li><a href="https://futureu.europa.eu/processes/Health/f/3/proposals/new"
+                rel="noopener noreferrer"><strong>Health</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Economy/f/10/proposals/new" rel="noopener noreferrer"><strong>A
+                    stronger economy, social justice and jobs</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/EUInTheWorld/f/16/proposals/new"
+                rel="noopener noreferrer"><strong>EU in the world</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/ValuesRights/f/12/proposals/new"
+                rel="noopener noreferrer"><strong>Values and rights, rule of law, security</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Digital/f/15/proposals/new"
+                rel="noopener noreferrer"><strong>Digital transformation</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Democracy/f/6/proposals/new"
+                rel="noopener noreferrer"><strong>European democracy</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Migration/f/34/proposals/new"
+                rel="noopener noreferrer"><strong>Migration</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Education/f/36/proposals/new"
+                rel="noopener noreferrer"><strong>Education, Culture, Youth and Sport</strong></a></li>
+    </ul>
+    <p>Your idea doesn’t fit any of these topics? Make it heard in&nbsp;<a
+            href="https://futureu.europa.eu/processes/OtherIdeas/f/8/proposals/new"
+            rel="noopener noreferrer"><strong>other ideas</strong></a>.</p>
+    <h4><strong>Discuss other citizens’ ideas</strong></h4>
+    <p>There are already so&nbsp;<a
+            href="https://futureu.europa.eu/search?filter%5Bdecidim_scope_id%5D=&amp;filter%5Bresource_type%5D=Decidim%3A%3AProposals%3A%3AProposal&amp;filter%5Bterm%5D="
+            rel="noopener noreferrer"><strong>many ideas</strong></a>&nbsp;being discussed on our platform. As part of
+        the Conference, we encourage you to endorse your favourites and add to ideas in the comments section. Remember,
+        this is a place for ideas to grow.&nbsp;</p>
+    <p><a href="https://futureu.europa.eu/processes" rel="noopener noreferrer"><strong>Join the discussion</strong></a>.
+    </p>
+    <h4><strong>Create an event</strong></h4>
+    <p>Would you like to create an event? You can host online discussions with people across Europe to capture a wide
+        range of perspectives and share your ideas further.&nbsp;</p>
+    <p>Create an event using the links below or find out more with our&nbsp;<a
+            href="https://futureu.europa.eu/pages/organiseanevent" rel="noopener noreferrer"><strong>event page
+                toolkit</strong></a>.</p>
+    <ul>
+        <li><a href="https://futureu.europa.eu/processes/GreenDeal/f/2/meetings/new"
+                rel="noopener noreferrer"><strong>Climate change and environment&nbsp;</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Health/f/4/meetings/new"
+                rel="noopener noreferrer"><strong>Health</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Economy/f/13/meetings/new" rel="noopener noreferrer"><strong>A
+                    stronger economy, social justice and jobs</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/EUInTheWorld/f/17/meetings/new"
+                rel="noopener noreferrer"><strong>EU in the world</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/ValuesRights/f/11/meetings/new"
+                rel="noopener noreferrer"><strong>Values and rights, rule of law, security</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Digital/f/14/meetings/new"
+                rel="noopener noreferrer"><strong>Digital transformation</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Democracy/f/5/meetings/new"
+                rel="noopener noreferrer"><strong>European democracy</strong></a></li>
+        <li><a href="https://futureu.europa.eu/processes/Migration/f/35/meetings/new"
+                rel="noopener noreferrer"><strong>Migration</strong></a></li>
+        <li>
+            <a href="https://futureu.europa.eu/processes/Education/f/37/meetings/new"
+                rel="noopener noreferrer"><strong>Education, Culture, Youth and Sport</strong></a>&nbsp;
+        </li>
+    </ul>
+    <p>Your event doesn’t fit any of these topics? Add it to the&nbsp;<a
+            href="https://futureu.europa.eu/processes/OtherIdeas/f/7/meetings/new"
+            rel="noopener noreferrer"><strong>Other ideas topic</strong></a>.</p>
+    <h4><strong>Join an event</strong></h4>
+    <p>We have many online events happening all across Europe. You search for events&nbsp;<a
+            href="https://futureu.europa.eu/processes" rel="noopener noreferrer"><strong>by topic</strong></a>&nbsp;or
+        use the interactive map to find events happening near you.&nbsp;</p>
+    <p><a href="https://futureu.europa.eu/meetings" rel="noopener noreferrer"><strong>Discover all the
+                events.</strong></a></p>
+</div>
+    ]]></string>
+    <string name="html_how_do_i_organise_an_event" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+        <h2>How do I organise an event?</h2>
+        <h4><strong>Guides</strong></h4>
+        <p>To get started, take a look at our guides. Here you will find tips on how to use the website, as well as
+                organise and publish your own event.</p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/39/Our_guides_-_at_a_glance_en.pdf"
+                        rel="noopener noreferrer">Our guides at a glance</a></p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/63/Website_guide_for_general_users_en.pdf"
+                        rel="noopener noreferrer">Website guide for general users</a></p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/328/Step-by-step_guide_for_event_organisers.080421.pdf"
+                        rel="noopener noreferrer">Step-by-step guide for event organisers</a> </p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/7264/Website_guide_for_event_organisers_EN.pdf"
+                        rel="noopener noreferrer">Website guide for event organisers</a> </p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/166/A_guide_for_making_your_event_more_inclusive_en.pdf"
+                        rel="noopener noreferrer">A Guide for making your event more inclusive</a></p>
+        <p><a href="https://futureu.europa.eu/pages/campaign-materials" rel="noopener noreferrer">Campaign materials</a>
+        </p>
+        <h4><strong>Interested in organising an event?&nbsp;</strong></h4>
+        <p>The Conference is a grass-roots democratic exercise that prioritises ideas and initiatives from European
+                citizens.</p>
+        <p>We invite people from all over the EU to create change by joining the discussions on our future. To organise
+                an event, select a topic below and publish it in the dedicated area so people can find it easily.&nbsp;
+        </p>
+        <p><a href="https://futureu.europa.eu/processes/GreenDeal/f/2/meetings/new"
+                        rel="noopener noreferrer"><strong>Climate change and environment&nbsp;</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Health/f/4/meetings/new"
+                        rel="noopener noreferrer"><strong>Health</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Economy/f/13/meetings/new" rel="noopener noreferrer"><strong>A
+                                stronger economy, social justice and jobs</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/EUInTheWorld/f/17/meetings/new"
+                        rel="noopener noreferrer"><strong>EU in the world</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/ValuesRights/f/11/meetings/new"
+                        rel="noopener noreferrer"><strong>Values and rights, rule of law, security</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Digital/f/14/meetings/new"
+                        rel="noopener noreferrer"><strong>Digital transformation</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Democracy/f/5/meetings/new"
+                        rel="noopener noreferrer"><strong>European democracy</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Migration/f/35/meetings/new"
+                        rel="noopener noreferrer"><strong>Migration</strong></a></p>
+        <p><a href="https://futureu.europa.eu/processes/Education/f/37/meetings/new"
+                        rel="noopener noreferrer"><strong>Education, Culture, Youth and Sport</strong></a><strong>
+                </strong><br></p>
+        <p><a href="https://futureu.europa.eu/processes/OtherIdeas/f/7/meetings/new"
+                        rel="noopener noreferrer"><strong>Other ideas</strong></a></p>
+</div>
+    ]]></string>
+    <string name="html_rules_of_participation" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>Rules of Participation</h2>
+    <p>The purpose of this charter is to define the principles and values of contributions to the
+        platform.<strong>&nbsp;By publishing a contribution, you agree to adhere to the </strong><a
+            href="https://futureu.europa.eu/pages/charter" rel="noopener noreferrer"><strong>Charter of the Conference
+                on the Future of Europe</strong></a><strong>&nbsp;and to the values of public debate</strong>:&nbsp;</p>
+    <ul>
+        <li>Recognize that&nbsp;everyone has the right to have a different opinion&nbsp;and respect it, in a spirit of
+            listening and openness.&nbsp;</li>
+        <li>Not to express any abusive, defamatory, racist or contrary to public order and the law in force.&nbsp;<br>
+        </li>
+        <li>Argue its positions in order to feed a quality debate with a constructive will.&nbsp;</li>
+    </ul>
+    <p><strong>The following are thus&nbsp;proscribed :</strong>&nbsp;</p>
+    <ul>
+        <li>Attacks or insinuations based on race, creed or lack thereof, ethnic origin, gender or sexual
+            orientation.&nbsp;</li>
+        <li>Insults, harassment, serious unproven or notoriously inaccurate statements about individuals or
+            organizations.&nbsp;<br>
+        </li>
+        <li>Advertising messages and classified ads.&nbsp;<br>
+        </li>
+        <li>Messages containing personal information that may infringe on privacy.&nbsp;<br>
+        </li>
+        <li>Obscene or pornographic messages.&nbsp;<br>
+        </li>
+        <li>Reproduction of texts without quoting their source or of contents subject to copyright&nbsp;is
+            reserved&nbsp;without authorization.&nbsp;</li>
+    </ul>
+    <p>The platform moderators are the sole judges of the contributions received and reserve the right to apply these
+        rules by hiding messages that contravene them without prior notice or agreement.&nbsp;</p>
+    <p>Prior to submitting your contribution, you declare that you have read and accepted to submit yourself without
+        restriction or reservation to the present charter.&nbsp;</p>
+</div>
+    ]]></string>
+    <string name="html_executive_board" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+        <h2>Executive Board</h2>
+        <p>24/03/2021: <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/968/Report_24_03_21.en21.pdf"
+                        rel="noopener noreferrer">Report</a></p>
+        <p>07/04/2021: <a href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/29338/sn02395.en21.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/1054/Report_7_04_21.en21.pdf"
+                        rel="noopener noreferrer">Report</a></p>
+        <p>22/04/2021: <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/1139/Agenda_22_04_21.en21.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/8878/Summary_report_20210422.pdf"
+                        rel="noopener noreferrer">Report</a></p>
+        <p>09/05/2021: <a
+                        href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclFLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c5d07e8bb0d439b767f7b091f84472a3a34de7a/en21.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/8879/COFE_Final_summary_report_20210509.pdf"
+                        rel="noopener noreferrer">Report</a></p>
+        <p>26/05/2021: <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/8911/Executive_Board_meeting_26_May_-_agenda.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/29112/sn03009.en21.pdf"
+                        rel="noopener noreferrer">Report</a> | <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/10231/Guidance_for_national_panels_EB260521.pdf"
+                        rel="noopener noreferrer">Guidance for National Citizens’ Panels</a> | <a
+                        href="https://futureu.europa.eu/uploads/decidim/attachment/file/10232/UPDATE_Practical_modalities_European_Citizens_Panels_20.05.21.pdf"
+                        rel="noopener noreferrer">Practical modalities of the European Citizens’ Panels</a></p>
+        <p>19/07/2021: <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/26335/EB_meeting_19_July_-_agenda.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/28447/en.pdf"
+                        rel="noopener noreferrer">Updated practical modalities of the European Citizens’ Panels</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/26337/Note_interim_report_Info_Executive_Board_16_7_2021.pdf"
+                        rel="noopener noreferrer">Information note on the first interim report from the Multilingual
+                        Digital
+                        Platform</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/26338/Reporting_Calendar_Version_12_July_2021.pdf"
+                        rel="noopener noreferrer">Calendar for the subsequent Platform reports</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/26339/CoFE_activity_report_March_June_2021.pdf"
+                        rel="noopener noreferrer">Activity Report March-June 2021</a> | <a
+                        href="https://assets.futureu.europa.eu/uploads/decidim/attachment/file/26340/Summary_report_6th-Executive_Board_19July2021.pdf"
+                        rel="noopener noreferrer">Report</a></p>
+        <p>20/09/2021: <a
+                        href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalpBIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--acdccf0856343a83ffe470c8b472962c1135e7a1/en21.pdf"
+                        rel="noopener noreferrer">Agenda</a> | <a
+                        href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8753680117205f8469220747103dc76f2ec62f7a/EN.pdf"
+                        rel="noopener noreferrer">Updated practical modalities of the European Citizens’ Panels</a></p>
+</div>
+    ]]></string>
+    <string name="html_conference_plenary" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+        <h2>Conference Plenary</h2>
+        <p>The Conference Plenary will be composed of 108 representatives from the European Parliament, 54 from the
+                Council
+                (two per Member State) and 3 from the European Commission, as well as 108 representatives from all
+                national
+                Parliaments on an equal footing, and citizens. 108 citizens will participate to discuss citizens’ ideas
+                stemming
+                from the Citizens’ Panels and the Multilingual Digital Platform: 80 representatives from the European
+                Citizens’
+                Panels, of which at least one-third will be younger than 25, and 27 from national Citizens’ Panels or
+                Conference
+                events (one per Member State), as well as the President of the European Youth Forum.</p>
+        <p>Some 18 representatives from both the Committee of the Regions and the European Economic and Social
+                Committee,
+                and another eight from both social partners and civil society will also take part, while the High
+                Representative
+                of the Union for Foreign Affairs and Security Policy will be invited when the international role of the
+                EU is
+                discussed. Representatives of key stakeholders may also be invited. The Conference Plenary will be
+                gender-balanced.</p>
+        <p>Their exchanges will be structured thematically around recommendations from the Citizens’ Panels and input
+                gathered from the Multilingual Digital Platform. The Platform is the single place where input from all
+                Conference-related events will be collected, analysed and published. In due course, the Plenary will
+                submit its
+                proposals to the Executive Board, who will draw up a report in full collaboration and full transparency
+                with the
+                Plenary and which will be published on the Multilingual Digital Platform.</p>
+        <h3>What will be the outcome of the Conference?</h3>
+        <p>The final outcome of the Conference will be presented in a report to the Joint Presidency. The three
+                institutions
+                will examine swiftly how to follow up effectively to this report, each within their own sphere of
+                competences
+                and in accordance with the Treaties.</p>
+        <p>23/10/2021 Plenary:</p>
+        <ul>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnN3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7fd8c62067f1704959fa91f794713bcf1d7ca35f/Plenary%20agenda%2023%20October_EN.pdf"
+                                rel="noopener noreferrer">Agenda</a></li>
+        </ul>
+        <p>Background documents:</p>
+        <ul>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWRDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2f4fc760e9dd076362a442eba2e537acefa204a/WG%20ToRs_FINAL_EN.pdf"
+                                rel="noopener noreferrer">Working Groups - Terms of reference</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVpDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--30f1eb2fbb763ca601038a3870ba4d83ee4ce37c/PRACTICAL%20PLENARY%20GUIDE_final_EN.pdf"
+                                rel="noopener noreferrer">Practical Plenary Guide</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ccb2609f3433ec020b3055170aacd363d84503e7/sn03411-re01.en21(1).pdf"
+                                rel="noopener noreferrer">First Interim Report</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f97dae84e07fcf9ea4e9276dd4b33fb3fd823dd6/COFE%20Second%20Interim%20Report%20September%20Kantar%20final.pdf"
+                                rel="noopener noreferrer">Second Interim Report</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanc5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b2e86523345f6fa89603ed1427e6bfede84e7266/Panel%201%20session%201%20Report_FINAL.pdf"
+                                rel="noopener noreferrer">Panel 1 - Session 1 - Report</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajA5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a47046c87e9136e1cdfba52c8a3e9713e2804575/Panel%202%20session%201%20Report__FINAL.pdf"
+                                rel="noopener noreferrer">Panel 2 - Session 1 - Report</a></li>
+                <li><a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6b0e1a23653b2295dafdb73a356d95ffdad7c0e0/Panel%203%20session%201%20Report_FINAL.pdf"
+                                rel="noopener noreferrer">Panel 3 - Session 1 - Report</a></li>
+        </ul>
+        <p>19/06/2021 Plenary:</p>
+        <ul>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/11651/Agenda-Plenary-19-June-2.pdf"
+                                rel="noopener noreferrer">Agenda</a></li>
+        </ul>
+        <p>Background documents:</p>
+        <ul>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/12747/List_Plenary_working_groups_EN.pdf"
+                                rel="noopener noreferrer">List of conference plenary working groups</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/10232/UPDATE_Practical_modalities_European_Citizens_Panels_20.05.21.pdf"
+                                rel="noopener noreferrer">Practical modalities of the European Citizens’ Panels</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/10231/Guidance_for_national_panels_EB260521.pdf"
+                                rel="noopener noreferrer">Guidance for National Citizens’ Panels</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/12999/sn02900.en21.pdf"
+                                rel="noopener noreferrer">Provisional calendar</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/13069/PLENARY_PRACTICAL_GUIDE_10-06-21.pdf"
+                                rel="noopener noreferrer">Practical guide</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/6/EN_-_JOINT_DECLARATION_ON_THE_CONFERENCE_ON_THE_FUTURE_OF_EUROPE.pdf"
+                                rel="noopener noreferrer">Joint Declaration on the Conference on the Future of
+                                Europe</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/9340/sn02700.en21.pdf"
+                                rel="noopener noreferrer">Rules of Procedure of the Conference on the Future of
+                                Europe</a></li>
+        </ul>
+</div>
+    ]]></string>
+    <string name="html_reporting" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>Reporting</h2>
+    <h4><strong>Activity Reports</strong></h4>
+    <h4><br></h4>
+    <p>Activity Reports provide an overview of the overall progress of the Conference at European level, notably in
+        relation to the Multilingual Digital Platform, the Conference Plenary and the European Citizens’ Panels, and
+        activities at national regional and local level.<br></p>
+    <ul>
+        <li>&nbsp;<a
+                href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ca15842b37c133cf01358531d07d459f0595907d/sn03308.en21.pdf"
+                rel="noopener noreferrer">Activity Report March - June 2021</a>
+        </li>
+    </ul>
+    <h4><br></h4>
+    <h4><strong>Platform Reports</strong></h4>
+    <h4><br></h4>
+    <p>All contributions on the platform are collected and analysed and serve as input into the work of the European
+        Citizens’ Panels and the Conference Plenary. To this end reports are prepared throughout the course of the
+        Conference that give an overview and provide analysis of contributions on the platform.<br></p>
+    <ul>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEVXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ccb2609f3433ec020b3055170aacd363d84503e7/sn03411-re01.en21(1).pdf"
+                rel="noopener noreferrer">First Interim Report Platform</a> – August 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f97dae84e07fcf9ea4e9276dd4b33fb3fd823dd6/COFE%20Second%20Interim%20Report%20September%20Kantar%20final.pdf"
+                rel="noopener noreferrer">Second Interim Report Platform</a> – September 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c0036edad609b7cc598b158984859bb707f2847/COFE%20Report%20Member%20States%20Kantar%20final.pdf"
+                rel="noopener noreferrer">Report on contributions per Member State</a> – September 2021
+        </li>
+    </ul>
+</div>
+    ]]></string>
+    <string name="html_european_citizens_panels" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>European Citizens’ Panels</h2>
+    <p>There will be four European Citizens’ Panels, each of them comprising 200 citizens and ensuring that at least one
+        female and one male citizen per Member State is included. Citizens will be chosen randomly to ensure that they
+        are representative of the EU’s diversity, in terms of geographic origin, gender, age, socioeconomic background
+        and level of education. Young people between 16 and 25 will make up one-third of each panel.&nbsp;</p>
+    <p>In addition to the necessary time for preparation, information sharing and feedback, these panels shall meet
+        during deliberative sessions, in different locations, and shall be dedicated to specific themes:</p>
+    <ul>
+        <li>Values, rights, rule of law, democracy, security;</li>
+        <li>Climate change, environment/health;</li>
+        <li>Stronger economy, social justice, jobs/education, youth, culture, sport/digital transformation; and</li>
+        <li>EU in the world/migration.</li>
+    </ul>
+    <p>Representatives from each European Citizens’ Panel, of which at least one third shall be younger than 25, shall
+        take part in the Plenary, present the outcome of their discussions and debate them with other participants. The
+        panels shall take on board contributions gathered in the framework of the Conference through the digital
+        platform, providing input to the Conference Plenary by formulating a set of recommendations for the Union to
+        follow-up on.</p>
+    <p>Prior to that, a European citizens’ event, also in the framework of the Conference, will be held on 17 June 2021
+        in Lisbon, Portugal, and livestreamed online. This will be composed of 27 representatives from national
+        Citizens’ Panels or national events (one per Member State), as well as the President of the European Youth Forum
+        and a number of the citizens already selected for the European-level Citizens’ Panels. The event, also organised
+        in hybrid format, will give participants the opportunity to discuss their expectations from the Conference with
+        the three Co-Chairs. These participants will also attend the inaugural Plenary in Strasbourg.</p>
+    <p><br></p>
+    <h5><strong>Related documents</strong></h5>
+    <ul>
+        <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/20890/Specific_Contract_1_-_selection_citizens_panels.pdf"
+                rel="noopener noreferrer">Specific contract 1 for services related to the selection of participants in
+                European Citizens’ Panels in the context of the Conference on the Future of Europe</a></li>
+        <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/20891/Specific_Contract_2_-_selection_citizens_panels.pdf"
+                rel="noopener noreferrer">Specific contract 2 for services related to the selection of participants in
+                European Citizens’ Panels in the context of the Conference on the Future of Europe</a></li>
+    </ul>
+</div>
+    ]]></string>
+    <string name="html_information_material" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+    <h2>information material</h2>
+    <h4><strong>Factsheets</strong></h4>
+    <p>Below you will find information about the different components and the participatory process of the ‘Conference
+        on the Future of Europe’:</p>
+    <ul>
+        <li>The <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/15049/NA0321186ENN_002.pdf"
+                rel="noopener noreferrer">digital platform</a>, May 2021</li>
+        <li>
+            <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/18520/cofoe-ifg-en-01.jpg"
+                rel="noopener noreferrer">Conference on the Future of Europe: how it works</a>, June 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92c0e023cd3bd2adf776d8154450ff2ffe03cec2/NA0621070ENC_002_PF1(4).pdf"
+                rel="noopener noreferrer">Conference roll-out</a>, September 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91342b493d2c028428f7e820527410797dc4e195/NA0921377ENN_002.pdf"
+                rel="noopener noreferrer">European Citizens Panels</a>, September 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/18648/cofoe-ifg-en-02.jpg"
+                rel="noopener noreferrer">The Conference plenary</a>, June 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/20428/COFE_factsheet_How_to_organise_events_FINAL.pdf"
+                rel="noopener noreferrer">How to organise events</a>, July 2021
+        </li>
+    </ul>
+    <p><br></p>
+    <h4><strong>Infographics</strong></h4>
+    <p>Here you will find visual overviews of the Conference procedure:</p>
+    <ul>
+        <li>
+            <a href="https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fbe274ff16e79b4d729dfddfb77a5a6a664da7cf/CoFoE_Process_EN.jpg"
+                rel="noopener noreferrer">Process</a>, June 2021
+        </li>
+        <li>
+            <a href="https://futureu.europa.eu/uploads/decidim/attachment/file/14587/CoFoE_Timeline__3_.jpg"
+                rel="noopener noreferrer">Timeline</a>, June 2021
+        </li>
+    </ul>
+    <h4><br></h4>
+    <h4><strong>Campaign materials</strong></h4>
+    <p>You can spread the word about the Conference with our&nbsp;downloadable campaign materials, including visuals
+        suitable for social media.</p>
+    <ul>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-poster-jpg.zip"
+                rel="noopener noreferrer">Posters (download in JPG format)</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-poster-pdf.zip"
+                rel="noopener noreferrer">Posters (download in PDF format)</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-social-media-square.zip"
+                rel="noopener noreferrer">Social media visuals (square format)</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-social-media-vertical-story.zip"
+                rel="noopener noreferrer">Social media visuals (vertical format)</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-social-media-twitter-card.zip"
+                rel="noopener noreferrer">Twitter cards</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/en/cofoe-document-email-banner.zip"
+                rel="noopener noreferrer">Email banners</a></li>
+        <li><a href="https://www.europarl.europa.eu/pdf/news/cofoe/material-per-type/fr/cofoe-document-logo.zip"
+                rel="noopener noreferrer">Conference on the Future of Europe logo</a></li>
+        <li><a href="https://futureu.europa.eu/pages/campaign-materials" rel="noopener noreferrer">Download campaign
+                material per visual</a></li>
+    </ul>
+    <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/14587/CoFoE_Timeline__3_.jpg"
+            rel="noopener noreferrer"><strong><br></strong></a></p>
+    <h4><strong>Videos</strong></h4>
+    <p>This section offers videos that can be used to explain the conference. You will also find the recordings of the
+        first inaugural events. The full track of past recordings can be accessed via the Conference’s multimedia pages
+        of the European Parliament and the European Commission.</p>
+    <h5><strong>Generic videos</strong></h5>
+    <ul>
+        <li>
+            <a href="https://multimedia.europarl.europa.eu/en/conference-on-the-future-of-europe-write-your-future_N01-AFPS-210310-SCJD_ev"
+                rel="noopener noreferrer">About the Conference on the Future of Europe</a>, March 2021
+        </li>
+        <li>
+            <a href="https://audiovisual.ec.europa.eu/en/video/I-204289" rel="noopener noreferrer">About the
+                platform</a>, April 2021
+        </li>
+        <li>Conference panels: <a href="https://audiovisual.ec.europa.eu/en/video/I-207508"
+                rel="noopener noreferrer">long version</a> - <a
+                href="https://audiovisual.ec.europa.eu/en/video/I-208185" rel="noopener noreferrer">short version</a>,
+            June 2021</li>
+    </ul>
+    <h5><strong>Video recordings of Conference events</strong></h5>
+    <ul>
+        <li><a href="https://audiovisual.ec.europa.eu/en/topnews/M-006565" rel="noopener noreferrer">Inaugural event, 9
+                May</a></li>
+        <li><a href="https://audiovisual.ec.europa.eu/en/video/I-207453" rel="noopener noreferrer">Inaugural Plenary, 19
+                June</a></li>
+    </ul>
+    <h5><strong>More events’ recordings and videos</strong></h5>
+    <ul>
+        <li><a href="https://audiovisual.ec.europa.eu/en/topnews/M-006565" rel="noopener noreferrer">European Commission
+                multimedia page</a></li>
+        <li><a href="https://multimedia.europarl.europa.eu/en/conference-on-future-of-europe_17609_pk"
+                rel="noopener noreferrer">European Parliament multimedia page</a></li>
+    </ul>
+</div>
+    ]]></string>
+    <string name="html_toolkit" tools:ignore="TypographyDashes"><![CDATA[
+<div class="static__content">
+        <h2>Toolkit</h2>
+        <ul>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/39/Our_guides_-_at_a_glance_en.pdf"
+                                rel="noopener noreferrer">Our Guides - At a glance</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/63/Website_guide_for_general_users_en.pdf"
+                                rel="noopener noreferrer">Website guide for general users</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/7264/Website_guide_for_event_organisers_EN.pdf"
+                                rel="noopener noreferrer">Website guide for event organisers</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/328/Step-by-step_guide_for_event_organisers.080421.pdf"
+                                rel="noopener noreferrer">Step-by-step guide for event organisers</a></li>
+                <li><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/166/A_guide_for_making_your_event_more_inclusive_en.pdf"
+                                rel="noopener noreferrer">A guide for making your events more inclusive</a></li>
+                <li><a href="https://futureu.europa.eu/pages/campaign-materials" rel="noopener noreferrer">Campaign
+                                materials</a></li>
+        </ul>
+        <p><br></p>
+</div>
+    ]]></string>
+    <string name="html_conference_charter"><![CDATA[
+<div class="card">
+    <div class="card__content static__content">
+        <h2>Conference Charter</h2>
+        <h3>Charter for citizens and event organisers participating in the <strong>CONFERENCE ON THE FUTURE OF
+                EUROPE</strong>
+        </h3>
+        <h3>I will contribute to the debate and deliberations on the priorities for our common future, together with
+            citizens from all backgrounds, walks of life and all corners of the European Union.</h3>
+        <h3><strong>As a participant in the Conference, I commit to:</strong></h3>
+        <ul>
+            <li>
+                Respect <strong>our European values</strong>, as set in Art. 2 of the Treaty on the
+                European Union: <strong>human dignity, freedom, democracy, equality, the rule of law and respect for
+                    human rights, including the rights of persons belonging to minorities</strong>, which is part of
+                what it means to be European and to engage respectfully with each other. These values are <strong>common
+                    to all EU Member States</strong> in a society in which <strong>pluralism, non-discrimination,
+                    tolerance, justice, solidarity and equality between women and men must prevail.</strong>
+            </li>
+            <li>Contribute to the Conference with <strong>constructive</strong> and <strong>concrete proposals</strong>,
+                respecting the opinions of other citizens and building <strong>Europe’s future</strong> together.</li>
+            <li>Refrain from expressing, disseminating, or sharing <strong>content which is illegal, hateful</strong> or
+                <strong>deliberately false</strong> or <strong>misleading</strong>. In this context, I will always refer
+                to <strong>credible and reliable sources</strong> when I share content and information to support my
+                ideas.
+            </li>
+            <li>My participation in the Conference is voluntary and I will not try to use the Conference to pursue any
+                <strong>commercial or exclusively private</strong> interests.
+            </li>
+        </ul>
+        <h3>
+            <strong>As a party organising events under the umbrella of the Conference</strong>,<strong> I commit
+                to:</strong>
+        </h3>
+        <ul>
+            <li>Put <strong>citizens at the centre</strong> of any event and allow them to express their voice freely.
+            </li>
+            <li>Promote events that are<strong> inclusive and accessible</strong> for all citizens, including by
+                publishing the details of any event on the Conference multilingual digital platform</li>
+            <li>Respect the <strong>principles as set out in the Joint Declaration</strong> on the Conference on the
+                Future of Europe and ensure that citizens are able to discuss the topics that matter to them.</li>
+            <li>Encourage <strong>diversity in the debates</strong>, by actively supporting the participation of
+                citizens from all walks of life, irrespective of gender, sexual orientation, age, socioeconomic
+                background, religion and/or level of education.</li>
+            <li>
+                <strong>Respect freedom of speech</strong>, giving space to competing opinions and proposals – as long
+                as they are neither hateful nor illegal.
+            </li>
+            <li>Whenever possible and relevant, favour the <strong>cross-board participation</strong> of citizens and
+                the use of <strong>different EU languages</strong> in the events.</li>
+            <li>Guarantee <strong>full transparency</strong>. Following any event, I will <strong>report openly on
+                    debates and recommendations</strong> formulated by citizens on the Conference multilingual digital
+                platform. I will <strong>stream and/or broadcast events</strong>, whenever possible.</li>
+            <li>When providing participants with <strong>information on topics for debate</strong> (e.g. digital, print
+                or audio-visual material), ensure that is accurate, reliable, accessible and has traceable references.
+            </li>
+            <li>Ensure compliance with <strong>EU data protection</strong> and privacy rules.</li>
+            <li>Use only the authorised <strong>Conference visual identity </strong>for communicating the event.</li>
+        </ul>
+        <p><em>Citizens and partner organisations wishing to take active part in the Conference on the Future of Europe
+                shall abide by this Charter. The European Institutions reserve the right to remove from the platform
+                content found to be in breach of this self-commitment, as well as to prevent or withdraw the right to
+                use the Conference visual identity from an individual or an organisation in breach of the Conference
+                principles.</em></p>
+        <p><a href="https://futureu.europa.eu/uploads/decidim/attachment/file/3997/Conference_Charter_en__2_.pdf"
+                rel="noopener noreferrer">You can download the PDF version of this document here.</a></p>
+    </div>
+</div>
+    ]]></string>
+    <string name="error">an error occurred</string>
+    <string name="activity_header_image">activity header image</string>
+    <string name="view_pager_image">viewPager Image</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
